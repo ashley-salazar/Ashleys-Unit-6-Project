@@ -1,0 +1,55 @@
+body {
+    color: white;
+    background-color: beige;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 25px;
+    background-color: darkgreen;
+    font-weight: 100;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+.secondImage {
+    height: 350px;
+}
+.title {
+    display: flex;
+    justify-content: space-around;
+}
+
+.start-button {
+    height: 40px;
+}
+
+.Part-two-yes {
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #cad2c5;
+}
+
+.no-part-two {
+  background-color: #cad2c5;  
+}
+
+.jail {
+    height: 500px;
+}
+
